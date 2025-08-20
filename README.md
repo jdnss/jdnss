@@ -5,7 +5,7 @@
 - not fully understand HTML code, but i still don't know how to write code in it
 
 ### projects where i contributed
-- secret, but i can say that it will released in a third of a century
+- none =)
 
 ### RU
 ## обо мне
