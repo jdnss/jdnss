@@ -1,6 +1,6 @@
 ### EN
 ## about me 
-- 19 y.o.
+- 20 y.o. (oh my god😭)
 - mostly designer
 - i can make a very simple but not fully functional HTML page (i don't understand JavaScript), aaaand... that's it =D
 
@@ -9,7 +9,7 @@
 
 ### RU
 ## обо мне
-- мне 19
+- мне 20 (боже мой😭)
 - в основном дизайнер
 - могу сделать сильно простую, но не полностью функциональную HTML страницу (я не понимаю JavaScript), ииии... всё =D
 
